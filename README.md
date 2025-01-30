@@ -19,7 +19,7 @@ DuckDuckGo API (via LangChain tools): Adds real-time web search capabilities for
 Installation
 
 Clone the repository
-git clone (https://github.com/Nikhilesh-915/AI-Powered-Multi-Agent-Query-Processor.git)
+git clone ((https://github.com/Hrushikesh295/Ai_Multi_agents/blob/main/agent.py)
 Navigate to the project directory
 cd multi-agent-query-system
 Install dependencies
